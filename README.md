@@ -15,8 +15,8 @@ In this order:
 5. Akeed_5_Bivariate_analysis – Bivariate Analysis
 6. Akeed_6_Cluster_Implementation 
 7. Akeed_7_Cluster_Analysis
-8. Akeed_8_ Implementing_the_solution_with_Random_Forest_and_Challenging_the_Solution_with_XGBoost – Modelling
-9. Akeed_9_Neural_Networks_(MLP_Classifier)— solution implementation
+8. Akeed_8_ Implementing_the_solution_with_Random_Forest_and_XGBoost – Modelling
+9. Akeed_9_Neural_Networks_(MLP_Classifier)— challenging the solution
 
 # Technologies used
 Python Programming Language
