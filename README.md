@@ -11,10 +11,12 @@ In this order:
 1. Akeed_1_Train_and_Test_File_Preparation – Exploring and Merging the Datasets
 2. Akeed_2_Train_Data_Cleaning – Train Cleaning
 3. Akeed_3_Test__Data_Cleaning – Test Cleaning
-4. Akeed_4_Univariate_Analysis – 
-5. Copy_of_Copy_of_Bivariate_analysis – EDA Part 2 and KNN Implementation
-6. Implementing_the_solution_with_Random_Forest_and_Challenging_the_Solution_with_XGBoost – Modelling
-7. Akeed_4_Modelling – K-Means Clustering and Neural Networks Implementation
+4. Akeed_4_Univariate_Analysis – Univariate analysis
+5. Akeed_5_Bivariate_analysis – Bivariate Analysis
+6. Akeed_6_Cluster_Implementation 
+7. Akeed_7_Cluster_Analysis
+8. Akeed_8_ Implementing_the_solution_with_Random_Forest_and_Challenging_the_Solution_with_XGBoost – Modelling
+9. Akeed_9_Neural_Networks_(MLP_Classifier)— solution implementation
 
 # Technologies used
 Python Programming Language
