@@ -11,7 +11,7 @@ In this order:
 1. Akeed_1_Train_and_Test_File_Preparation – Exploring and Merging the Datasets
 2. Akeed_2_Train_Data_Cleaning – Train Cleaning
 3. Akeed_3_Test__Data_Cleaning – Test Cleaning
-4. Final_Univariate_Analysis – EDA Part 1
+4. Akeed_4_Univariate_Analysis – 
 5. Copy_of_Copy_of_Bivariate_analysis – EDA Part 2 and KNN Implementation
 6. Implementing_the_solution_with_Random_Forest_and_Challenging_the_Solution_with_XGBoost – Modelling
 7. Akeed_4_Modelling – K-Means Clustering and Neural Networks Implementation
