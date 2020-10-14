@@ -5,7 +5,7 @@ Restaurant Recommendation Model
 In collaboration with Ted Askoye, Marvin Oluoch, Gabriel Abura and Naomi Chebet
 
 # Project Summary
-This project uses Random Forest, KNN, NN, and XGBoost to build a model that would predict customers who are likely to order from the given restaurants.
+This project uses Random Forest, NN, and XGBoost to build a model that would predict customers who are likely to order from the given restaurants.
 We used multiple notebooks because the data was too large to consolidate everything in one notebook.
 In this order:
 1. Akeed_1_Train_and_Test_File_Preparation – Exploring and Merging the Datasets
